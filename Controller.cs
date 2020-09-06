@@ -18,6 +18,3 @@ public class Controller : MonoBehaviour {
         }
     }
 }
-
-
-22222
